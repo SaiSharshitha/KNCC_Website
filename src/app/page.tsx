@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className="flex flex-col w-full">
       {/* HERO SECTION */}
-      <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden bg-kncc-navy pt-16">
+      <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden bg-kncc-navy pt-24 pb-32">
         {/* Background Image / Overlay */}
         <div className="absolute inset-0 z-0 opacity-20">
           {/* Abstract architectural grid pattern */}
